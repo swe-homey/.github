@@ -1,7 +1,7 @@
 ### SC2006 Software Engineering Project — *Homey*
 
 > The one-stop-shop property market web application for Singapore<br/>
-> - [Demo](https://youtu.be/4qLNeD5MUFQ) / [Teaser](https://youtu.be/rf1tAE1Vwfg)
+> - [Demo](https://youtu.be/4qLNeD5MUFQ) / [Teaser](https://youtu.be/A9fdw31bSno)
 > - [Website](https://homey-sg.vercel.app/)
 > - [Documentation](https://github.com/swe-homey/docs)
 
