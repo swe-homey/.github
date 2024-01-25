@@ -1,28 +1,31 @@
-### SC3040 Advanced Software Engineering Project
+### SC2006 Software Engineering Project — *Homey*
 
-> - [Wiki](https://github.com/mawsters/docs/wiki)
-> - [Kanban](https://github.com/orgs/mawsters/projects/3)
-> - [Minutes](https://github.com/mawsters/docs/wiki/Meeting-Minutes)
+ > The one-stop-shop property market web application for Singapore<br/>
+ > - [Demo](https://youtu.be/4qLNeD5MUFQ) / [Teaser](https://youtu.be/A9fdw31bSno)
+ > - [Website](https://homey-sg.vercel.app/)
+ > - [Documentation](https://github.com/swe-homey/docs)
+ <br/>
 
-<br/>
+ <p align="center">
+   <img src="https://user-images.githubusercontent.com/65748007/229656035-194f194d-f5fb-4664-940b-28e90ed96eb9.png" alt="Project Cover"
+     width="960px"
+   />
+ </p>
 
----
+ ---
 
-#### Contributors ✨
+ #### Contributors ✨
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/crystalcheong"  target="_blank"><img src="https://avatars.githubusercontent.com/u/65748007?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Crystal Cheong</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/hyunsunryu2020" target="_blank"><img src="https://avatars.githubusercontent.com/u/101242965?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ryu Hyunsun</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Kennethgjw" target="_blank"><img src="https://avatars.githubusercontent.com/u/102150867?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kenneth Goh</b></sub></a><br /></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/NyanMaw" target="_blank"><img src="https://avatars.githubusercontent.com/u/85445638?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nyan Maw Htun</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/sufyanjais" target="_blank"><img src="https://avatars.githubusercontent.com/u/37979114?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Muhammad Sufyan</b></sub></a><br /></td>
-  <td align="center"><a href="https://github.com/yuhaopro" target="_blank"><img src="https://avatars.githubusercontent.com/u/64051449?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zhu Yu Hao</b></sub></a><br /></td>
-  </tr>
-</table>
+ <table>
+   <tr>
+     <td align="center"><a href="https://github.com/crystalcheong"  target="_blank"><img src="https://avatars.githubusercontent.com/u/65748007?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Crystal Cheong</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/minghancmh" target="_blank"><img src="https://avatars.githubusercontent.com/u/92656699?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chan Ming Han</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/murong2602" target="_blank"><img src="https://avatars.githubusercontent.com/u/105585164?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ng Mu Rong</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/junkoon" target="_blank"><img src="https://avatars.githubusercontent.com/u/38901349?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ang Jun Koon</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/ChiHian" target="_blank"><img src="https://avatars.githubusercontent.com/u/115488816?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cheong Chi Hian</b></sub></a><br /></td>
+   </tr>
+ </table>
 
----
+ ---
 
-_This project is submitted as a project work for Nanyang Technological University's [SC3040 - Advanced Software Engineering course](https://www.nanyangmods.com/modules/cz3002-advanced-software-engineering-3-0-au/)._
+ *This repository is submitted as a project work for Nanyang Technological University's [SC2006 - Software Engineering course](https://www.nanyangmods.com/modules/cz2006-software-engineering-3-0-au/).*
